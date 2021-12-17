@@ -19,7 +19,7 @@ jobs:
           echo $(date) > .trigger-release
           # Commit and push changes
           git add .trigger-release
-          git config --local user.email "com.git@sealsystems.de"
-          git config --local user.name "${GITHUB_ACTOR}"
+          git config --local user.email "paulemile.miny@gmail.com"
+          git config --local user.name "Paul-Emile MINY"
           git commit -m "chore: Trigger release"
           git push

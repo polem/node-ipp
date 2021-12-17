@@ -1,3 +1,10 @@
+## 2.7.8 (2021-12-19)
+
+### Chores
+
+
+triger release ([c385ac5](https://github.com/polem/node-ipp/commit/c385ac5))
+
 ## 2.7.7 (2021-08-25)
 
 ### Chores
