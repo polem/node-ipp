@@ -1,6 +1,6 @@
 {
   "name": "@polem/ipp",
-  "version": "2.7.12",
+  "version": "2.7.13",
   "description": "Internet Printing Protocol (IPP) for Node.js",
   "keywords": [
     "ipp",
