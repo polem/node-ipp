@@ -3,6 +3,19 @@
 ### Chores
 
 
+triger release ([0c782a7](https://github.com/polem/node-ipp/commit/0c782a7))
+
+triger release ([9bbab8b](https://github.com/polem/node-ipp/commit/9bbab8b))
+
+triger release ([a7da4da](https://github.com/polem/node-ipp/commit/a7da4da))
+
+triger release ([7f3c4a4](https://github.com/polem/node-ipp/commit/7f3c4a4))
+
+## 2.7.8 (2021-12-19)
+
+### Chores
+
+
 triger release ([c385ac5](https://github.com/polem/node-ipp/commit/c385ac5))
 
 ## 2.7.7 (2021-08-25)
