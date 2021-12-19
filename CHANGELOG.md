@@ -1,3 +1,10 @@
+## 2.7.12 (2021-12-19)
+
+### Chores
+
+
+trigger release ([452dbb6](https://github.com/polem/node-ipp/commit/452dbb6))
+
 ## 2.7.11 (2021-12-19)
 
 ### Chores
