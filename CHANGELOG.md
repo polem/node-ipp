@@ -1,3 +1,10 @@
+## 2.7.11 (2021-12-19)
+
+### Chores
+
+
+trigger release ([c9d7076](https://github.com/polem/node-ipp/commit/c9d7076))
+
 ## 2.7.10 (2021-12-19)
 
 ### Chores
