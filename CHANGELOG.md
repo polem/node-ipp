@@ -1,3 +1,10 @@
+## 2.7.10 (2021-12-19)
+
+### Chores
+
+
+trigger release ([784de10](https://github.com/polem/node-ipp/commit/784de10))
+
 ## 2.7.9 (2021-12-19)
 
 ### Chores
