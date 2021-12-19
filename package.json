@@ -46,6 +46,7 @@
     "raw-body": "2.4.2"
   },
   "main": "ipp.js",
+  "types": "types/index.d.ts",
   "licenses": [
     {
       "type": "MIT",
