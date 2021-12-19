@@ -4,3 +4,5 @@
 
 # Yeoman generators
 !/generators/**
+
+!/types/**/*
