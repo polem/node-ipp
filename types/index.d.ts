@@ -533,6 +533,7 @@ declare module '@polem/ipp' {
     'output-device-uuid'?: string | undefined;
     'preferred-attributes'?: object | undefined;
     'printer-geo-location'?: string | undefined;
+    'ppd-name'?: string | undefined;
     'printer-id'?: number | undefined;
     'printer-ids'?: number[] | undefined;
     'printer-location'?: string | undefined;
