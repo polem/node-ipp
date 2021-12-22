@@ -1,3 +1,10 @@
+## 2.7.15 (2021-12-22)
+
+### Chores
+
+
+trigger release ([aeeee4e](https://github.com/polem/node-ipp/commit/aeeee4e))
+
 ## 2.7.14 (2021-12-19)
 
 ### Chores
